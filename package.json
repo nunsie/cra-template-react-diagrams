@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-react-diagrams",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "react-diagrams"
+  ],
+  "description": "CRA template for projectstorm/react-diagrams",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunsie/cra-template-react-diagrams.git"
+  },
+  "license": "MIT",
+  "author": "Nusrath Khan <nusrath501khan@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nunsie/cra-template-react-diagrams/issues"
+  },
+  "engines": {
+    "node": ">=8.10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/nunsie/cra-template-react-diagrams#readme"
+}
